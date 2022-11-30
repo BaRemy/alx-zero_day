@@ -1,1 +1,1 @@
-Created first directory
+First directory in repo
